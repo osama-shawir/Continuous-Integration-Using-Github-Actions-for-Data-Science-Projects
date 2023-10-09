@@ -12,7 +12,7 @@ import lib
 
 # Import the necessary libraries
 def AircraftAnalytics(file_id = '1TAD7Uyc9PjByt_q13uvGXGeubXnujnUi',
-                       TARGET_COLUMN = "Speed"):
+                       TARGET_COLUMN = "Aircraft Mass"):
     """This is a function to run some analytics
     on aircraft wildlife accidents data"""   
     # Read our data from Google Drive
